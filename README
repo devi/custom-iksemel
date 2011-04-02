@@ -1,0 +1,14 @@
+# custom-iksemel
+
+This is a modified version of [iksemel](http://code.google.com/p/iksemel), currently use for my project.
+
+## What's changed ?
+
+Connection is handed over to the front end rather than the library. 
+
+## Compiling & Install
+
+    ./autogen.sh
+    ./configure
+    make
+    make install
